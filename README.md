@@ -4,5 +4,4 @@ Personal portfolio created with React displaying information about myself and re
 # Built With
 React, getform.io, react-scroll, Tailwind CSS
 
-# Link
-https://jham94.github.io/portfolio-react/ 
+ 
