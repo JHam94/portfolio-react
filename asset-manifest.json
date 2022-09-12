@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.6c684c39.css",
+    "main.js": "/my-app/static/js/main.ddefcf51.js",
+    "static/media/Sport.png": "/my-app/static/media/Sport.655deda6214c5832b5e4.png",
+    "static/media/Smoothie.png": "/my-app/static/media/Smoothie.6c03c9f1fc1b3f2ae0f6.png",
+    "static/media/readme.png": "/my-app/static/media/readme.b491d0194d0c2be5f229.png",
+    "static/media/Sauce.png": "/my-app/static/media/Sauce.dec9e6d9cd72ca2d5011.png",
+    "index.html": "/my-app/index.html",
+    "main.6c684c39.css.map": "/my-app/static/css/main.6c684c39.css.map",
+    "main.ddefcf51.js.map": "/my-app/static/js/main.ddefcf51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c684c39.css",
+    "static/js/main.ddefcf51.js"
+  ]
+}
