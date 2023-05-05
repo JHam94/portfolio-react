@@ -29,9 +29,6 @@ const MyWork = () => {
 <div className='text-center'>MERN SPA</div>
                         </span>
                         <div className='pt-8 text-center'>
-                           {/* <a href="https://sauceboss.herokuapp.com/">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                            </a> */}
                             <a href="https://github.com/bethanyjean/sauce-boss">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
@@ -52,9 +49,6 @@ const MyWork = () => {
 Full-Stack Application
                         </span>
                         <div className='pt-8 text-center'>
-                           {/* <a href="https://serene-beyond-42809.herokuapp.com/">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                            </a> */}
                             <a href="https://github.com/bethanyjean/sports-seekers.git">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
